@@ -1,0 +1,53 @@
+order_id,order_date,product_name,category,quantity,unit_price,region,customer_segment,payment_method
+ORD-1001,2026-08-01,Surface Pro 11 Enterprise,Electronics,4,1299.0,North America,Enterprise,Wire Transfer
+ORD-1002,2026-08-02,Azure Kinect DK Sensor,  electronics ,10,399.0,North America,Enterprise,Corporate Card
+ORD-1003,2026-08-03,Ergonomic Mesh Task Chair,Office Furniture,15,349.5,Europe,Mid-Market,Invoice Net-30
+ORD-1004,2026-08-04,Thunderbolt 4 Dock G5,ELECTRONICS,25,279.0,Asia Pacific,Enterprise,Corporate Card
+ORD-1005,2026-08-05,Standing Desk Dual Motor,office furniture,8,620.0,North America,SMB,Credit Card
+ORD-1006,2026-08-06,Power BI Premium Per User (Annual),Software Licenses,50,240.0,Europe,Enterprise,Wire Transfer
+ORD-1007,2026-08-07,Noise-Canceling Conferencing Headset,Accessories,30,189.0,Latin America,Mid-Market,Corporate Card
+ORD-1008,2026-08-08,4K UltraSharp 32 Monitor,Electronics,12,749.0,North America,Enterprise,Wire Transfer
+ORD-1008,2026-08-08,4K UltraSharp 32 Monitor,Electronics,12,749.0,North America,Enterprise,Wire Transfer
+ORD-1009,2026-08-09,Rackmount UPS 3000VA,Cloud Hardware,3,1450.0,Asia Pacific,Enterprise,Invoice Net-30
+ORD-1010,2026-08-10,Mechanical Wireless Keyboard,  accessories,40,129.0,Europe,SMB,Credit Card
+ORD-1011,2026-08-11,GitHub Enterprise Seat Pack,software licenses,35,252.0,North America,,Wire Transfer
+ORD-1012,2026-13-45,Smart Room Bar Camera,Electronics,5,999.0,Europe,Enterprise,Corporate Card
+ORD-1013,2026-08-13,Modular Acoustic Desk Partition,Office Furniture,20,175.0,North America,Mid-Market,Invoice Net-30
+ORD-1014,2026-08-14,10GbE Managed Switch 24-Port,cloud_hardware,6,1120.0,Asia Pacific,Enterprise,Wire Transfer
+ORD-1015,2026-08-15,USB-C Multiport Travel Hub,Accessories,-4,79.0,North America,SMB,Credit Card
+ORD-1016,2026-08-16,Surface Laptop Studio 2,Electronics,7,2199.0,Europe,Enterprise,Wire Transfer
+ORD-1016,2026-08-16,Surface Laptop Studio 2,Electronics,7,2199.0,Europe,Enterprise,Wire Transfer
+ORD-1017,2026-08-18,Azure Databricks Commit Unit Pack,Software Licenses,10,950.0,North America,Enterprise,Wire Transfer
+ORD-1018,2026-08-19,Dual Monitor Articulating Arm,Accessories,18,,Latin America,Mid-Market,Corporate Card
+ORD-1019,2026-08-21,Enterprise NAS Storage Array 64TB,Cloud Hardware,2,4200.0,North America,Enterprise,Wire Transfer
+ORD-1020,2026-08-22,Executive Conference Table 12ft,  Office Furniture ,2,1850.0,Europe,Enterprise,Invoice Net-30
+ORD-1020,2026-08-22,Executive Conference Table 12ft,Office Furniture,3,1850.0,Europe,Enterprise,Invoice Net-30
+ORD-1021,2026-08-24,SQL Server Enterprise Core License,SOFTWARE LICENSES,8,1425.0,Asia Pacific,Enterprise,Wire Transfer
+ORD-1022,2026-08-26,Wireless Presentation Clicker Pro,Accessories,45,65.0,North America,SMB,Credit Card
+ORD-1023,2026-08-28,OLED Portable Field Monitor,electronics,9,460.0,,Mid-Market,Corporate Card
+ORD-1024,2026-09-01,AI Workstation GPU Server Node,Cloud Hardware,2,6800.0,North America,Enterprise,Wire Transfer
+ORD-1025,2026-09-03,Lumbar Support Ergonomic Footrest,Office Furniture,55,58.0,Europe,SMB,Credit Card
+ORD-1026,2026-09-05,Defender for Cloud Server Plan,Software Licenses,40,180.0,North America,Enterprise,Wire Transfer
+ORD-1027,2026-09-07,Precision Wireless Trackpad,ACCESSORIES,28,115.0,Asia Pacific,Mid-Market,Corporate Card
+ORD-1028,INVALID_DATE,Fiber Optic Patch Cable 10m Pack,Cloud Hardware,20,95.0,Latin America,Mid-Market,Invoice Net-30
+ORD-1029,2026-09-10,Surface Hub 3 50-inch Collaboration,Electronics,3,4499.0,North America,Enterprise,Wire Transfer
+ORD-1030,2026-09-12,Mobile Locking Pedestal File,Office Furniture,16,240.0,Europe,Mid-Market,Invoice Net-30
+ORD-1031,2026-09-14,HDMI 2.1 Braided Cable 3m,Accessories,60,-24.0,North America,SMB,Credit Card
+ORD-1032,2026-09-16,Microsoft Fabric Capacity F16 Pack,Software Licenses,6,1920.0,Europe,Enterprise,Wire Transfer
+ORD-1033,2026-09-18,Edge Gateway Industrial Appliance,Cloud Hardware,8,890.0,Asia Pacific,Enterprise,Invoice Net-30
+ORD-1034,2026-09-20,27-inch QHD IPS Designer Display,Electronics,14,499.0,Latin America,Mid-Market,Corporate Card
+ORD-1034,2026-09-20,27-inch QHD IPS Designer Display,Electronics,14,499.0,Latin America,Mid-Market,Corporate Card
+ORD-1035,2026-09-22,Acoustic Phone Booth Pod,Office Furniture,2,3400.0,North America,Enterprise,Wire Transfer
+ORD-1036,2026-09-25,Encrypted Hardware Security Key,Accessories,80,55.0,Europe,,Corporate Card
+ORD-1037,2026-09-28,Azure Purview Governance Suite,Software Licenses,12,680.0,North America,Enterprise,Wire Transfer
+ORD-1038,2026-10-01,NVMe All-Flash Cache Blade,cloud hardware,4,2350.0,Asia Pacific,Enterprise,Wire Transfer
+ORD-1039,2026-10-03,Webcam 4K AI Auto-Framing,Electronics,22,199.0,Europe,Mid-Market,Corporate Card
+ORD-1040,2026-10-05,Collaborative Whiteboard Easel,Office Furniture,11,295.0,Latin America,SMB,Credit Card
+ORD-1041,2026-10-07,Visual Studio Enterprise Annual,Software Licenses,15,1199.0,North America,Enterprise,Wire Transfer
+ORD-1042,2026-10-09,Laptop Privacy Filter 15-inch,Accessories,65,48.0,Europe,SMB,Credit Card
+ORD-1043,2026-10-11,Redundant Power Distribution Unit,Cloud Hardware,9,540.0,North America,Mid-Market,Invoice Net-30
+ORD-1044,2026-10-13,Surface Pro Flex Keyboard Pen Bundle,Electronics,19,449.0,Asia Pacific,Enterprise,Corporate Card
+ORD-1045,2026-10-15,Height-Adjustable Drafting Stool,Office Furniture,14,280.0,North America,Mid-Market,Invoice Net-30
+ORD-1046,2026-10-17,Azure Synapse Dedicated SQL Pack,Software Licenses,5,2600.0,Europe,Enterprise,Wire Transfer
+ORD-1047,2026-10-19,Desktop GaN Charging Station 140W,Accessories,32,110.0,North America,Mid-Market,Corporate Card
+ORD-1048,2026-10-20,Enterprise Firewall Security Gateway,Cloud Hardware,5,1780.0,North America,Enterprise,Wire Transfer
